@@ -1,0 +1,10 @@
+{ 
+	"title": "Twitter", 
+	"appid": "twitter",
+	"url": "https://mobile.twitter.com",
+	"domain": "twitter.com",
+	"subdomain": "mobile.twitter.com",
+	"primaryColor": "#00A2ED",
+	"primaryColorDark": "#00A2ED",
+	"primaryColorLight": "#00A2ED"
+}
